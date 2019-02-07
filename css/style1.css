@@ -1,4 +1,47 @@
-p{
+.intro{
   font-family: sans-serif;
+  color: black
+  font-style: italic;
+}
 
+div.sidebar{
+  float: right;
+  width: 17.5%;
+  background-color: grey;
+  font-family: fantasy;
+  height: auto;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+div.mainmenu{
+  list-style-type: none;
+  width: 100%;
+  background-color: grey;
+  font-family: sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height:40px;
+}
+
+li{
+  display: inline;
+}
+
+div.layut{
+  height: auto;
+  margin: 0;
+  padding: 0;
+  width: 82.5%;
+  background-color: grey;
+}
+p.welcome{
+  font-family: sans-serif;
+  color: black
+  font-style: italic;
+  background-color: grey;
+  padding-top: 0;
 }
